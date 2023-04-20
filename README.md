@@ -17,7 +17,7 @@ week 6: finish documentation and add plants
 
 
 
-### design ( mainly sketches )
+## design ( mainly sketches )
 
 
 
